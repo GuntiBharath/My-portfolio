@@ -1,0 +1,49 @@
+/* Import Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+/* Global Styles */
+body {
+    font-family: 'Poppins', sans-serif;
+    background: url('backgrounc_black.jpg') no-repeat center center fixed;
+    background-color: #D8DBE2;
+    color: #373F51;
+   text-align: center;
+}
+
+/* Navbar Styling */
+.navbar {
+    padding: 10px;
+    border-radius: 0px;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.nav-link {
+    font-weight: 600;
+    transition: 0.3s;
+}
+
+.nav-link:hover {
+    color: #FF7F50 !important;
+}
+
+/* Gallery Card */
+.card {
+    border: none;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+/* Make Images Fit */
+.card-img-top {
+    border-radius: 8px;
+    object-fit: cover;
+    height: 250px;
+    width: 100%;
+}
