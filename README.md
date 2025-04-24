@@ -41,4 +41,4 @@ Welcome to **G. Bharath's Portfolio Website** – a modern and responsive web po
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/gunti/bharath-portfolio.git
+   git clone https://github.com/GuntiBharath/bharath-portfolio.git
