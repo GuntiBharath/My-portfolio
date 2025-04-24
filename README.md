@@ -36,9 +36,3 @@ Welcome to **G. Bharath's Portfolio Website** – a modern and responsive web po
 ![Screenshot](screenshot.png)
 
 > Make sure to include a screenshot named `screenshot.png` in the root of your repository.
-
-## 📌 How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/GuntiBharath/bharath-portfolio.git
