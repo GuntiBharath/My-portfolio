@@ -30,9 +30,3 @@ Welcome to **G. Bharath's Portfolio Website** – a modern and responsive web po
 2. JavaScript performs client-side validation.
 3. The form is submitted to the same page (self-processing form using PHP).
 4. PHP captures the form data, sanitizes it, and displays a thank-you message.
-
-## 📸 Screenshot
-
-![Screenshot](screenshot.png)
-
-> Make sure to include a screenshot named `screenshot.png` in the root of your repository.
